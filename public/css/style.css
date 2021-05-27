@@ -1,0 +1,27 @@
+.card{
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+.btn{
+    width: 200px;
+}
+.error{
+    color: red;
+    font-weight: 400;
+}
+.addcontactbtn{
+    float: right;
+}
+.addform{
+    z-index: 2;
+}
+.row{
+    width: 100%;
+}
+.dashboardbtn{
+    width: 100px;
+}
+.btntd{
+    width: 25%;
+}
